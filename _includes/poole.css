@@ -413,7 +413,7 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   border: 1px solid #eee;
   float: left;
-  width: 50%;
+  width: 40%;
 }
 
 /* Only provide a hover state for linked pagination items */
