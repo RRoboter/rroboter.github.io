@@ -294,7 +294,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 44rem;
+  max-width: 50rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -413,7 +413,7 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   border: 1px solid #eee;
   float: left;
-  width: 47%;
+  width: 50%;
 }
 
 /* Only provide a hover state for linked pagination items */
